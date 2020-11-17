@@ -1,3 +1,3 @@
 module.exports = {
-    transaction: require('./transaction')
+    Transaction: require('./transaction')
   };
